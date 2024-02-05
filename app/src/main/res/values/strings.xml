@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MusePlay</string>
+    <string name="welcome">WELCOME TO MUSIC WORLD</string>
+    <string name="todo">TODO</string>
+    <string name="pause">Pause</string>
+    <string name="play">Play</string>
+    <string name="todo_icon">TODO</string>
+    <string name="todo_icon1">TODO</string>
+    <string name="play_pause_button_description">Play/Pause Button</string>
+    <string name="_0_00_c">0:00</string>
+    <string name="_0_00_t">0:00</string>
+    <string name="music_name">Music Name</string>
+
+
+</resources>
